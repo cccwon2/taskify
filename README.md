@@ -47,6 +47,30 @@
 | `format` | Prettier를 사용하여 코드 형식을 정리합니다. |
 | `test`   | 테스트를 실행합니다. (현재 설정되지 않음)   |
 
+## 패키지 매니저: Bun
+
+이 프로젝트는 [Bun](https://bun.sh/)을 패키지 매니저로 사용합니다. Bun은 빠른 JavaScript 런타임 및 패키지 매니저입니다.
+
+### Bun 설치 (Windows)
+
+Windows에서 Bun을 설치하려면 PowerShell을 관리자 모드로 실행한 후 다음 명령어를 입력하세요:
+
+```powershell
+npm install -g bun
+```
+
+### Bun으로 프로젝트 실행
+
+프로젝트를 빌드하고 개발 서버를 실행하려면 다음 명령어를 사용하세요:
+
+```bash
+# 프로젝트 빌드
+bun run build
+
+# 개발 서버 실행
+bun run dev
+```
+
 ## 개발 환경 설정
 
 ### ESLint
