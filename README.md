@@ -28,7 +28,7 @@
 
 <img src="/public/images/favicons/tailwind-merge.svg" width="16" height="16"> **[`tailwind-merge`](https://github.com/dcastil/tailwind-merge)** 2.5.4: Tailwind CSS 클래스를 효율적으로 병합하는 유틸리티
 
-<img src="https://zod.dev/static/favicon-32x32.png"" width="16" height="16"> **[`zod`](https://github.com/colinhacks/zod)** 3.23.8: 스키마 선언 및 유효성 검사 라이브러리
+<img src="https://zod.dev/static/favicon-32x32.png" width="16" height="16"> **[`zod`](https://github.com/colinhacks/zod)** 3.23.8: 스키마 선언 및 유효성 검사 라이브러리
 
 <img src="/public/images/favicons/react_datepicker.png" width="16" height="16"> **[`react-datepicker`](https://reactdatepicker.com/)** 7.5.0: 날짜 선택 컴포넌트를 제공하는 라이브러리
 
